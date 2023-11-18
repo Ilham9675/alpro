@@ -1,0 +1,9 @@
+Pikachu 24 13 2 Electric
+Bulbasaur 29 10 3 Grass
+James
+Charizard 32 14 3 Fire
+Magikarp 29 9 4 Water
+3
+A Pikachu Magikarp
+D Charizard
+H Magikarp

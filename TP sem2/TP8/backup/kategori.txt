@@ -1,0 +1,11 @@
+K001 Elektronik
+K002 Dapur
+K003 Makanan
+K004 Minuman
+K005 Kamar
+K006 Kamar_Mandi
+K007 Ruang_Tamu
+K008 Make_up
+K009 Perhiasan
+K010 Kendaraan
+#### ####
